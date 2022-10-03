@@ -2,6 +2,6 @@
 
 Biodiversity for resilience and stability
 
-The repository for the Response Diversity Network.
+This is a repository being used for scoping of the possibility of a Response Diversity Network.
 
 More information here https://opetchey.github.io/ResponseDiversityNetwork/
