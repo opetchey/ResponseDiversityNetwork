@@ -9,12 +9,15 @@ output:
       smooth_scroll: true
 ---
 
+# Draft
+
+A scoping exercise is underway to see if there is interest in and need for a network of individuals concerned by response diversity and its implications. This page is suggesting possibile themes and activities. Everything is draft and to be discussed and decided upon.
 
 # Introduction
 
 Response diversity is variation in how organisms respond to environmental change. A diversity of responses ensures that when some organisms are negatively affected, others experience positive effects. This will lead to greater stability of ecological communities and ecosystems.
 
-The aims of the Response Diversity Network are:
+The possible aims of the Response Diversity Network are:
 
 * To organise and accelerate scientific advances about response diversity.
 * To promote the inclusion of response diversity in monitoring and assesssment of biodiversity change.
@@ -22,20 +25,20 @@ The aims of the Response Diversity Network are:
 
 
 
-# Activities
+# Possible activities
 
 * Assembling and organising researchers working on response diversity.
 * Providing a standard approach to response diversity research projects, via the [Benchmarking Response Diversity Project](https://opetchey.github.io/response_diversity_benchmarking/).
 * Organising sessions at scientific meetings, and dedicated meetings and workshops.
 * Hosting monthly meetings of network members.
 
-# Services
+# Possible services
 
 * Providing clear and accessible lay accounts and summaries of response diversity concepts, research, and implications.
 * Consultation with conservation, management, and restoration projects that wish to consider sustainability via ecological resilience and response diversity.
 * Review of research proposals and reports concerning response diversity.
 
-# Products
+# Possible products
 
 * Research reports, research summaries, working group reports.
 * ...
