@@ -1,12 +1,10 @@
 ---
 title: "Response Diversity Network"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output:
-  bookdown::html_document2:
+format:
+  html:
+    self-contained: true
     toc: true
-    toc_float:
-      collapsed: true
-      smooth_scroll: true
+    toc-location: left
 ---
 
 # Draft
@@ -22,8 +20,6 @@ The possible aims of the Response Diversity Network are:
 * To organise and accelerate scientific advances about response diversity.
 * To promote the inclusion of response diversity in monitoring and assesssment of biodiversity change.
 * To provide clear and accessible information about response diversity to relevant individuals, organisations, and processes.
-
-
 
 # Possible activities
 
@@ -42,6 +38,10 @@ The possible aims of the Response Diversity Network are:
 
 * Research reports, research summaries, working group reports.
 * ...
+
+# Governance, organisation, and meeting minutes
+
+[Please see this page for more information about governance, organisation, meeting minutes, and newsletters.](./gov_org_mins/index.html)
 
 # Contact
 
