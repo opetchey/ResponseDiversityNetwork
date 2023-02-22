@@ -23,15 +23,15 @@ knitr::include_graphics("assets/HeaderFooter_black.png")
 
 ## About
 
-Response diversity is variation in how organisms respond to environmental change. A diversity of responses ensures that when some organisms are negatively affected, others experience positive effects. This will lead to greater stability of ecological communities and ecosystems.
+Response diversity is variation in how organisms respond to environmental change. A diversity of responses ensures that when some organisms are negatively affected, others experience positive effects. This should lead to greater stability of ecological communities and ecosystems. The ways in which response diversity is studied and measured are diverse and span across multiple scales and environments. Because of this, our understanding of whether there are general "rules" and "metrics" with respect to response diversity is still limited.  
 
-The aims of the Response Diversity Network currently include:
+The aims of the Response Diversity Network currently include: 
 
-* To organise and accelerate scientific advances about response diversity.
-* To promote the inclusion of response diversity in monitoring and assesssment of biodiversity change.
-* To provide clear and accessible information about response diversity to relevant individuals, organisations, and processes.
+* To organise and accelerate scientific advances about response diversity. 
+* To promote the inclusion of response diversity in monitoring and assessment of biodiversity change. 
+* To provide clear and accessible information about response diversity to relevant individuals organisations, and processes. 
 
-The network should evolve and then these aims and how they are approached can evolve. The process for such change should be as open and inclusive as possible.
+The network should evolve, and as it does, these aims and how they are approached can evolve as well. The process for such change should be as open and inclusive as possible. 
 
 
 ## Who we are
@@ -44,14 +44,28 @@ Current members include early career researchers (e.g. PhD candidates), research
 
 Current members come from [give geographical distribution].
 
-A steering committee helps coordinate the development of the network. 
+A steering committee helps coordinate the development of the network. The committee currently consists of 7 members:  
+
+* Ceres Barros (University of British Columbia, Canada) 
+* Laura E. Dee (University of Colorado, Boulder, USA) 
+* Mike Fowler (Swansea University, UK) 
+* Owen L. Petchey (University of Zurich, Switzerland) 
+* Samuel R.P-J. Ross (Okinawa Institute of Science and Technology Graduate University, Japan) 
+* Takehiro Sasaki (Yokohama National University, Japan) 
+* Hannah J. White (Anglia Ruskin University, UK) 
 
 ## Resources
 
-SC meeting minutes.
-Scoping meeting notes.
+### Publications
 
-## Contact
+Ross, S.R.P.-J., Petchey, O.L., Sasaki, T. & Armitage, D.W. (2023). How to measure response diversity. *Methods in Ecology and Evolution*. [Current available only as a preprint](https://www.biorxiv.org/content/10.1101/2022.04.26.489626v3) 
+
+### Administrative
+
+SC meeting minutes (to be added).
+Scoping meeting notes (to be added).
+
+## Join us!
 
 If you would like to chat about joining the network, or for any other reason contact us, please fill in and submit [this google form](https://forms.gle/uUgY9K8SkxkfKCR29). Someone from the network will then get in touch as soon as possible.
 
