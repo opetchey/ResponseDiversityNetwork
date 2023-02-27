@@ -254,6 +254,7 @@ if (window.hljs) {
 
 
 
+
 <style type="text/css">
 .main-container {
 max-width: 940px;
@@ -275,6 +276,9 @@ outline: none;
 summary {
 display: list-item;
 }
+details > summary > p:only-child {
+display: inline;
+}
 pre code {
 padding: 0;
 }
@@ -293,23 +297,17 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before {
-content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "\e259";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "";
-border: none;
-}
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "";
+content: "\e258";
 font-family: 'Glyphicons Halflings';
-display: inline-block;
-padding: 10px;
-border-right: 1px solid #ddd;
+border: none;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -409,14 +407,20 @@ between.</p>
 <p>A steering committee helps coordinate the development of the network.
 The committee currently consists of 7 members:</p>
 <ul>
-<li>Ceres Barros (University of British Columbia, Canada)</li>
-<li>Laura E. Dee (University of Colorado, Boulder, USA)</li>
-<li>Mike Fowler (Swansea University, UK)</li>
-<li>Owen L. Petchey (University of Zurich, Switzerland)</li>
-<li>Samuel R.P-J. Ross (Okinawa Institute of Science and Technology
-Graduate University, Japan)</li>
-<li>Takehiro Sasaki (Yokohama National University, Japan)</li>
-<li>Hannah J. White (Anglia Ruskin University, UK)</li>
+<li><a href="https://ceresbarros.wordpress.com/">Ceres Barros</a>
+(University of British Columbia, Canada)</li>
+<li><a href="https://www.lauraedee.com/home">Laura E. Dee</a>
+(University of Colorado, Boulder, USA)</li>
+<li><a href="https://www.swansea.ac.uk/staff/m.s.fowler/">Mike
+Fowler</a> (Swansea University, UK)</li>
+<li><a href="https://www.ieu.uzh.ch/en/staff/member/petchey_owen.html">Owen L.
+Petchey</a> (University of Zurich, Switzerland)</li>
+<li><a href="https://samuelrpjross.com/">Samuel R.P-J. Ross</a> (Okinawa
+Institute of Science and Technology Graduate University, Japan)</li>
+<li><a href="http://www.sasa-lab.ynu.ac.jp/pukiwiki-151/index.php">Takehiro
+Sasaki</a> (Yokohama National University, Japan)</li>
+<li><a href="https://aru.ac.uk/people/hannah-white">Hannah J. White</a>
+(Anglia Ruskin University, UK)</li>
 </ul>
 </div>
 <div id="resources" class="section level2">
